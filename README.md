@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 I'm Alex, and I am a Computer Science major at the University of North Florida. Currently, I am the most proficient in Java but I have experience working on projects using  Python, C, and JavaScript.  
   
 My school and personal projects are posted here. My current focus is working on backend projects especially those involving databases and scaling.
