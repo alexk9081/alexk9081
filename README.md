@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Alex and I am a Computer Science major at the University of North Florida. Currently the main language I use to code is Java but I have experience with Python, C, and JavaScript.  
+I'm Alex, and I am a Computer Science major at the University of North Florida. Currently, I am the most proficient in Java but I have experience working on projects using  Python, C, and JavaScript.  
   
-My school and personal projects will be posted here. I mainly work with backend projects because I can't create anything visually appealing.
+My school and personal projects are posted here. My current focus is working on backend projects especially those involving databases and scaling.
 
 <!--
 **alexk9081/alexk9081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
