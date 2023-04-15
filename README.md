@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm Alex, and I am a Computer Science major at the University of North Florida. Currently, I am the most proficient in **Java** but I have experience working on projects using  **Python, C, and JavaScript**.  
+I'm Alex, and I am a Computer Science major at the University of North Florida. Currently, I am the most proficient in **Java and JavaScript** but I have experience working on projects using  **Python, C, and C#**.  
   
 My school and personal projects are posted here, and my current focus is working on expanding my skillset and learning best practices.
 
