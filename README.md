@@ -1,7 +1,11 @@
-### Hello there! 👋
-I'm Alex, and I am a Computer Science major at the University of North Florida. Currently, I am the most proficient in **Java and JavaScript** but I have experience working on projects using  **Python, C, and C#**.  
-  
-My school and personal projects are posted here, and my current focus is working on expanding my skillset and learning best practices.
+### Welcome! 👋
+
+
+Hello there, I'm a software engineer at Walmart specializing in site reliability operations. You can find my personal full stack projects and univeristy projects here.
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alex-l-keo/)
+
 
 <!--
 **alexk9081/alexk9081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
